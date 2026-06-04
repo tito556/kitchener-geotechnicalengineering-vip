@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Kitchener
+
+> Geotechnical engineering services in Kitchener, Canada.
+
+## Services
+- [Anchors](https://kitchener.geotechnicalengineering.vip/anchors/)
+- [Atterberg Limits](https://kitchener.geotechnicalengineering.vip/atterberg-limits/)
+- [Cbr Road](https://kitchener.geotechnicalengineering.vip/cbr-road/)
+- [Cpt Test](https://kitchener.geotechnicalengineering.vip/cpt-test/)
+- [Deep Excavations](https://kitchener.geotechnicalengineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://kitchener.geotechnicalengineering.vip/excavation-monitoring/)
+- [Excavations](https://kitchener.geotechnicalengineering.vip/excavations/)
+- [Flexible Pavement](https://kitchener.geotechnicalengineering.vip/flexible-pavement/)
+- [Footings](https://kitchener.geotechnicalengineering.vip/footings/)
+- [Foundations](https://kitchener.geotechnicalengineering.vip/foundations/)
+- [Geophysics](https://kitchener.geotechnicalengineering.vip/geophysics/)
+- [Grain Size](https://kitchener.geotechnicalengineering.vip/grain-size/)
+- [Ground Improvement](https://kitchener.geotechnicalengineering.vip/ground-improvement/)
+- [Grouting](https://kitchener.geotechnicalengineering.vip/grouting/)
+- [In Situ Permeability](https://kitchener.geotechnicalengineering.vip/in-situ-permeability/)
+- [Investigation](https://kitchener.geotechnicalengineering.vip/investigation/)
+- [Lab In Situ](https://kitchener.geotechnicalengineering.vip/lab-in-situ/)
+- [Laboratory](https://kitchener.geotechnicalengineering.vip/laboratory/)
+- [Liquefaction](https://kitchener.geotechnicalengineering.vip/liquefaction/)
+- [Masw](https://kitchener.geotechnicalengineering.vip/masw/)
+- [Mat Foundations](https://kitchener.geotechnicalengineering.vip/mat-foundations/)
+- [Piles](https://kitchener.geotechnicalengineering.vip/piles/)
+- [Plate Load Test](https://kitchener.geotechnicalengineering.vip/plate-load-test/)
+- [Resistivity](https://kitchener.geotechnicalengineering.vip/resistivity/)
+- [Retaining Walls](https://kitchener.geotechnicalengineering.vip/retaining-walls/)
+- [Rigid Pavement](https://kitchener.geotechnicalengineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://kitchener.geotechnicalengineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://kitchener.geotechnicalengineering.vip/sand-cone-density/)
+- [Seismic](https://kitchener.geotechnicalengineering.vip/seismic/)
+- [Seismic Isolation](https://kitchener.geotechnicalengineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://kitchener.geotechnicalengineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://kitchener.geotechnicalengineering.vip/seismic-refraction/)
+- [Slope Stability](https://kitchener.geotechnicalengineering.vip/slope-stability/)
+- [Slopes](https://kitchener.geotechnicalengineering.vip/slopes/)
+- [Soft Ground Tunnels](https://kitchener.geotechnicalengineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://kitchener.geotechnicalengineering.vip/spt-drilling/)
+- [Stone Columns](https://kitchener.geotechnicalengineering.vip/stone-columns/)
+- [Test Pits](https://kitchener.geotechnicalengineering.vip/test-pits/)
+- [Triaxial](https://kitchener.geotechnicalengineering.vip/triaxial/)
+
+## Contact
+- Website: https://kitchener.geotechnicalengineering.vip/
+
+## About
+This site provides geotechnical engineering services in Kitchener, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
